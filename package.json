@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "restaurant-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifAlk3bi/restaurant-page.git"
+  },
+  "author": "saifAlk3bi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifAlk3bi/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/saifAlk3bi/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
