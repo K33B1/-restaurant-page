@@ -1,2 +1,2 @@
-# -restaurant-page
+# restaurant-page
  restaurant-page
